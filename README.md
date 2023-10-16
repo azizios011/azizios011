@@ -1,6 +1,7 @@
 [![MasterHead]([https://th.bing.com/th/id/OIP.QQ1pjtjeIEMkA5EYwZU1xAHaEK?w=310&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7))]
 <h1 align="center">Hi 👋, I'm Aziz Hidri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizios011&label=Profile%20views&color=0e75b6&style=flat" alt="azizios011" /> </p>
 
