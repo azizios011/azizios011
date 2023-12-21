@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **azizhidri005@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/azizh/Downloads/Med%20aziz.pdf](CV)
+- 📄 Know about my experiences [CV](file:///C:/Users/azizh/Downloads/Med%20aziz.pdf)
 
 - ⚡ Fun fact **I think I can still learn**
 
