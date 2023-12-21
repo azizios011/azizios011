@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizios011&label=Profile%20views&color=0e75b6&style=flat" alt="azizios011" /> </p>
 
-- 🔭 I’m currently working on **AR/VR**
+- 🔭 I’m currently working on **AR/VR, Cyber Security**
 
 - 🌱 I’m currently learning **Unity, Unreal engine, Blender**
 
-- 👯 I’m looking to collaborate on **Cyber Security**
+- 👯 I’m looking to collaborate on **PFE PROJECT**
 
 - 🤝 I’m looking for help with **Interview Preparation: Algorithms / Prepare Yourself**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **azizhidri005@hotmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/azizh/Downloads/Med%20aziz.pdf](file:///C:/Users/azizh/Downloads/Med%20aziz.pdf)
+- 📄 Know about my experiences [file:///C:/Users/azizh/Downloads/Med%20aziz.pdf](CV)
 
 - ⚡ Fun fact **I think I can still learn**
 
