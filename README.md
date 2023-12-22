@@ -1,5 +1,4 @@
-[![Banner](<img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
-)]
+<img src="https://raw.githubusercontent.com/nuhkoca/nuhkoca/master/resources/banner.png" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm Aziz Hidri</h1>
 <h3 align="center">A passionate Software Engineer from Tunisia</h3>
