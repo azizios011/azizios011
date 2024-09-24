@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **azizhidri005@hotmail.com**
 
-- 📄 Know about my experiences [English Ruesme](https://www.dropbox.com/scl/fi/8mir6imho2telscqinobu/Aziz-Hidri-Software-Enigneer-2024-English.pdf?rlkey=x21obgej49hb9lumsnw80caex&st=h37td16i&dl=0)
+- 📄 Know about my experiences [English Resume](https://www.dropbox.com/scl/fi/8mir6imho2telscqinobu/Aziz-Hidri-Software-Enigneer-2024-English.pdf?rlkey=x21obgej49hb9lumsnw80caex&st=h37td16i&dl=0)
 
 - ⚡ Fun fact **I think I can still learn**
 
