@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Deep3D Face Reconstruction**
 
-- 👯 I’m looking to collaborate on **PFE PROJECT**
+- 👯 I’m looking to collaborate on **MetaHuman Retopology Project**
 
-- 🤝 I’m looking for help with **Interview Preparation: Algorithms / Prepare Yourself**
+- 🤝 I’m looking for help with **Data Preparation**
 
-- 💬 Ask me about **C#, C++**
+- 💬 Ask me about **Deep Learning, Computer Vision**
 
 - 📫 How to reach me **azizhidri005@hotmail.com**
 
