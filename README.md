@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizios011&label=Profile%20views&color=0e75b6&style=flat" alt="azizios011" /> </p>
 
-- 🔭 I’m currently working on **AR/VR, Cyber Security**
+- 🔭 I’m currently working on **Pixel Streaming Infrastructure**
 
-- 🌱 I’m currently learning **Unity, Unreal engine, Blender**
+- 🌱 I’m currently learning **Deep3D Face Reconstruction**
 
 - 👯 I’m looking to collaborate on **PFE PROJECT**
 
